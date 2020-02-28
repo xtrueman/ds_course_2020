@@ -104,3 +104,9 @@ jupyter lab
 * [Открытые данные Сбербанка](https://www.sberbank.com/ru/analytics/opendata)
 * [Отктытые данные минфина](https://www.minfin.ru/opendata/)
 * [Отктытые данные минкульта](https://opendata.mkrf.ru/opendata/)
+
+## Лабораторные работы:
+
+1. [NumPy](lab1-numpy.md)
+2. [Pandas](lab2-pandas.md)
+3. [Визуализация данных](lab3-visual.md)
