@@ -1,5 +1,7 @@
 # Лабораторная работа №2: Pandas
 
+[Лекции](pandas-1.ipynb), [ч.2](pandas-2.ipynb)
+
 1. Считать в pandas DataFrame любой источник данных: любой CSV, JSON, Excel-файл, HTML-таблицу, данные из любой СУБД куда у вас есть доступ и т.п.
 Также можно сконвертировать в dataframe любой из встроенных датасетов sklearn: (см. [инструкцию](https://stackoverflow.com/questions/38105539/how-to-convert-a-scikit-learn-dataset-to-a-pandas-dataset))
 Одним словом загружаете данные откуда угодно, куда можете дотянуться.
