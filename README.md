@@ -74,11 +74,6 @@ jupyter lab
 Это важно, например, для правильной трактовки признаков, например, чтобы отделить категоривальные признаки от вещественных.
 
 
-## Полезные ссылки
-
-* [Синтаксис markdown для Jupyter](https://sourceforge.net/p/jupiter/wiki/markdown_syntax/)
-* [NumPy cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
-
 ## Датасеты:
 
 Откуда брать датасеты для работ?
@@ -110,3 +105,9 @@ jupyter lab
 1. [NumPy](lab1-numpy.md)
 2. [Pandas](lab2-pandas.md)
 3. [Визуализация данных](lab3-visual.md)
+
+## Полезные ссылки
+
+* [Синтаксис markdown для Jupyter](https://sourceforge.net/p/jupiter/wiki/markdown_syntax/)
+* [NumPy cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+* [Essential Cheat Sheets for deep learning and machine learning researchers][https://github.com/kailashahirwar/cheatsheets-ai]
