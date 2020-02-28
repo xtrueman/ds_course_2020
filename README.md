@@ -110,4 +110,4 @@ jupyter lab
 
 * [Синтаксис markdown для Jupyter](https://sourceforge.net/p/jupiter/wiki/markdown_syntax/)
 * [NumPy cheatsheet](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
-* [Essential Cheat Sheets for deep learning and machine learning researchers][https://github.com/kailashahirwar/cheatsheets-ai]
+* [Essential Cheat Sheets for deep learning and machine learning researchers](https://github.com/kailashahirwar/cheatsheets-ai)
