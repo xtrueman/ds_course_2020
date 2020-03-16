@@ -105,6 +105,7 @@ jupyter lab
 1. [NumPy](lab1-numpy.md)
 2. [Pandas](lab2-pandas.md)
 3. [Визуализация данных](lab3-visual.md)
+4. [Задачи классификации. Метрики качества классификации](lab4-class-metrics.md)
 
 ## Полезные ссылки
 
