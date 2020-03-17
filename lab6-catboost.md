@@ -14,12 +14,12 @@ https://github.com/catboost/tutorials/blob/master/ru/ml_session_2018_tutorial_ru
 Вывести итерацию с наилучшим значением AUC (для бинарной классификации) или наилучшим значением Logloss.  
 Вывести значения метрик качества классификации на тестовых данных (accuracy и precision / recall / AUC, если применимо).
 
-Примеры классификатора: см. https://github.com/catboost/tutorials/blob/master/classification/classification_tutorial.ipynb
+  Примеры классификатора: см. https://github.com/catboost/tutorials/blob/master/classification/classification_tutorial.ipynb
 
 2. Применить регрессию CatBoostRegressor к вашему датасету.
 Вывести номер итерации с значения метрик (MAE и MSE) для наилучшей итерации.
 
-Пример использования регрессора тут: https://github.com/catboost/tutorials/blob/master/model_analysis/shap_values_tutorial.ipynb
+  Пример использования регрессора тут: https://github.com/catboost/tutorials/blob/master/model_analysis/shap_values_tutorial.ipynb
 
 3. Для бинарного классификатора на основе CatBoostClassifier построить кривые PRC и ROC. Вычислить значения PRC-AUC и ROC-AUC.
 
