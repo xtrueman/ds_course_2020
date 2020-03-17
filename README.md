@@ -109,6 +109,7 @@ jupyter lab
 4. [Задачи классификации. Метрики качества классификации](lab4-class.md)
 5. [Деревья решений](lab5-trees.md)
 6. [Catboost](lab6-catboost.md)
+7. [Линейная Регрессия](lab7-linear-models.md)
 
 ## Полезные ссылки
 
