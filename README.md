@@ -89,6 +89,7 @@ jupyter lab
 * [Учебные датасеты для R](https://vincentarelbundock.github.io/Rdatasets/datasets.html)
 * [Датасеты от FiveThirtyEight](https://data.fivethirtyeight.com/)
 * [Подборка на habr](https://habr.com/ru/post/452740/)
+* [Подборка на Reddit](https://www.reddit.com/r/datasets/)
 * [Ещё подборка](https://towardsai.net/p/machine-learning/best-free-datasets-for-machine-learning-and-data-science/stanfordai/3451/)
 * [И ещё подборка](https://towardsdatascience.com/top-sources-for-machine-learning-datasets-bb6d0dc3378b)
 
