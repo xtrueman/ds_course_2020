@@ -23,6 +23,6 @@ https://github.com/catboost/tutorials/blob/master/ru/ml_session_2018_tutorial_ru
 
 3. Для бинарного классификатора на основе CatBoostClassifier построить кривые PRC и ROC. Вычислить значения PRC-AUC и ROC-AUC.
 
-Примеры построения ROC-кривой есть в `classification_tutorial.ipynb`
+    Примеры построения ROC-кривой есть в `classification_tutorial.ipynb`
 
 В случае проблем с установкой / использованием CatBoost можно заменить его на xgboost.
