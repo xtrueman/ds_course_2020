@@ -33,3 +33,5 @@
 9. Строим [confusion matrix](https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html) (см. ЛР4) для оценки того, какие ошибки классификатор допускает наиболее часто.
 
 Лучше всего всё оптимизируем и проверяем через кросс-валидацию (см. [как совместить CV и classification_report](https://stackoverflow.com/questions/42562146/classification-report-with-nested-cross-validation-in-sklearn)), но в худшем случае можете считать метрики на отложенной выборке и / или вместо `classification_report` использовать просто accuracy / f1, но за это будет немного снижен балл.
+
+Классификатор `LogisticRegression` может быть заменён по вашему желанию на другой адекватный для данной задачи классификатор, а ещё лучше дополнен другим классификатором, чтобы было 2 разных классификатора для сравнения на одних и тех же данных. В последнем случае: +1 балл за задачу.
