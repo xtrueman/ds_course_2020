@@ -2,8 +2,8 @@
 
 Вначале надо установить нужные библиотеки:
 ```
-pip3 install catboost shap ipwidgets
-jupyter nbextension enable --py widgetnbextension
+pip3 install catboost shap ipywidgets
+jupyter nbextension enable --py widgetsnbextension
 ```
 
 Туториал по Catboost:
