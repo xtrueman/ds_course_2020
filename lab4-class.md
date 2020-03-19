@@ -6,7 +6,7 @@
     1. На любом датасете продемонстрировать многоклассовую классификацию с помощью ЛЮБОГО алгоритма. Оценить accuracy.
     2. То же самое с использованием кросс-валидации
     3. Поиграться с гиперпараметром, связанным со сложностью модели (в случае kNN — k_neighbours) и построить график accuracy для train set и test_set для разных значений гиперпараметра (в лекции есть пример построения подобного графика для kNN и датасета cancer, но можно строить как угодно такой график)
-    4. Построить confusion matrix ([пример](https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html)):  
+    4. Построить confusion matrix (это вроде матрицы TN / TP/ FN/ FP, только расширенной для многоклассовой классификации, чтобы понять в какие стороны чаще ошибается классификатор). ([пример](https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html)):  
 ```
 confusion_scores = sklearn.metrics.confusion_matrix( y_test, y_pred )
 confusion_df = pd.DataFrame( confusion_scores, columns = iris.target_names, index = iris.target_names )
