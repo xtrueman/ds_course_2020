@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=xl1fwCza9C8
 
     Примеры классификатора: см. https://github.com/catboost/tutorials/blob/master/classification/classification_tutorial.ipynb
 
-2. Применить регрессию CatBoostRegressor к вашему датасету.
+2. Применить регрессию CatBoostRegressor к датасету (датасет уже другой, для регрессии, естественно).
 Вывести номер итерации с значения метрик (MAE и MSE) для наилучшей итерации.
 
     Пример использования регрессора тут: https://github.com/catboost/tutorials/blob/master/model_analysis/shap_values_tutorial.ipynb
