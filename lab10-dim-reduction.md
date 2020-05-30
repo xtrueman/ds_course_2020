@@ -1,7 +1,7 @@
 # Лабораторная работа №10: Понижение размерности признакового пространства
 
 - [статья про кластеризацию и порнижение размерности от ODS](https://habr.com/ru/company/ods/blog/325654/)
-- [материалы про понижение размерности из курса Яндекс/МФТИ на coursera]https://www.coursera.org/learn/unsupervised-learning/home/week/2
+- [материалы про понижение размерности из курса Яндекс/МФТИ на coursera](https://www.coursera.org/learn/unsupervised-learning/home/week/2)
 - [методичка про понижение размерности из курса Яндекс/МФТИ](https://github.com/Tirren/data-analysis/blob/master/Machine%20learning/coursera/Notes/3%20%D0%BA%D1%83%D1%80%D1%81/2-1.Ponizhenie_razmernosti_i_otbor_priznakov.pdf)
 
 0. Найти датасет с большим количеством вещественных признаков (от 20-ти шт.)
