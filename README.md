@@ -111,6 +111,8 @@ jupyter lab
 6. [Catboost](lab6-catboost.md)
 7. [Линейная Регрессия](lab7-linear-models.md)
 8. [Классификация текстов с помощью TfIdf](lab8-text-class-tfidf.md)
+9. [Кластеризация](lab9-clusterization.md)
+10. [Понижение размерности признакового пространства](lab10-dim-reduction.md)
 
 ## Полезные ссылки
 
