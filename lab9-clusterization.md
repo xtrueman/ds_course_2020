@@ -3,7 +3,7 @@
 Полезные материалы:
 - [статья про кластеризацию от ODS](https://habr.com/ru/company/ods/blog/325654/)
 - [материалы про кластеризацию из курса Яндекс/МФТИ на coursera](https://www.coursera.org/learn/unsupervised-learning/home/week/1)
-- [](https://github.com/Tirren/data-analysis/blob/master/Machine%20learning/coursera/Notes/3%20%D0%BA%D1%83%D1%80%D1%81/1-1.Vvedenie_v_klasterizaciyu.pdf)
+- [методичка по кластеризации из из курса Яндекс/МФТИ](https://github.com/Tirren/data-analysis/blob/master/Machine%20learning/coursera/Notes/3%20%D0%BA%D1%83%D1%80%D1%81/1-1.Vvedenie_v_klasterizaciyu.pdf)
 
 0. Найти датасет для кластеризации: для этого берём датасет для мультиклассовой классификации и временно убираем метки классов. Эти метки классов пригодятся нам для оценки качества кластеризации. Хотя в реальной жизни такой роскоши скорее всего не будет, однако наличие априорного знания о кластерах позволит нам посчитать несколько дополнительных метрик.
 
